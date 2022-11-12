@@ -3,7 +3,7 @@ from tkinter import messagebox
 from tkinter import ttk
 from tkinter import filedialog
 
-
+#author I. A. Gerasimov (@innokentiyG7)
 
 def copy(event):
     print('copy')
